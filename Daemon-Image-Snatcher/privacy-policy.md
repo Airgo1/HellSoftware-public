@@ -113,6 +113,7 @@ Pour toute question concernant cette politique de confidentialité ou le traitem
 - **Développeur** : HellSoftware
 - **Extension** : Daemon Image Snatcher
 - **Version** : 1.0.0
+- **Email** : hellsoftware.dev@gmail.com
 
 ---
 
